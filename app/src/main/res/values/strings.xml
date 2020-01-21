@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Toast2</string>
-    <string name="button">Button</string>
+    <string name="button">Кнопка</string>
+    <string name="catfood">Подпись под кнопкой</string>
+
+
 </resources>
